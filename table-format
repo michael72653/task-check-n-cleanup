@@ -1,0 +1,17 @@
+Google Sheet format
+====================
+Main Data Sheet
+====================
+A: task
+B: priority
+C: owner
+D: status
+E: start date
+F: end date
+G: notes
+H: ref
+====================
+Admin Data Sheet
+====================
+A: status
+(dropdown values)
